@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Toby Bonitz</h1>
 <h3 align="center">A Web3 entrepreneur/investor, developer in training via Metana Bootcamp</h3>
-<img align="right" alt=Coding" width="400" src="
+<img align="right" alt=Coding" width="400" src="e5db213846468c5ae57b620af276770e.jpg">
 
 
 - 🔭 I’m currently working on [Knights of Degen/Degen DAO](dgendao.com)
