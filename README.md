@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Knights of Degen/Degen DAO](dgendao.com)
 
-- 🌱 I’m currently learning **Developer Infrastructure (Github, Linux, Visual Studio Code)**
+- 🌱 I’m currently learning **Full Stack Development**
 
 - 👯 I’m looking to collaborate on **product development**
 
